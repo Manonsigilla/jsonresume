@@ -1,0 +1,15 @@
+image: node:latest
+
+stages:
+  - build
+
+pages:
+  stage: build
+  script:
+    - npm install
+    - npx resume-cli export --theme eloquent-mod --format html resume.html
+    - mkdir public
+    - mv resume.html public/index.html
+  artifacts:
+    paths:
+      - public
