@@ -1,0 +1,222 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Manon Sigaud",
+    "label": "Développeuse full-stack",
+    "image": "",
+    "email": "sigaudmanon@gmail.com",
+    "phone": "0753581572",
+    "url": "https://github.com/Manonsigilla",
+    "summary": "Je suis une développeuse web full-stack passionnée par le développement web et mobile. J'ai une solide expérience en HTML, CSS, PHP, Python, JavaScript, React, Node.js, Vite, PHPMyAdmin, MySQL, gestion de fichiers json et WordPress. Je suis une apprenante rapide et autodidacte de base. J'apprend encore tous les jours. Je suis à la recherche d'un poste de développeuse web full-stack.",
+    "location": {
+      "countryCode": "Var, France",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Manon Sigaud",
+        "url": "https://www.linkedin.com/in/manon-sigaud-704a4990/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Manonsigilla",
+        "url": "https://github.com/Manonsigilla"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Jonfosse",
+      "area": "Général",
+      "studyType": "",
+      "startDate": "2021-10-01",
+      "endDate": "2022-06-30",
+      "score": "Diplômée avec mention, BAC",
+      "courses": []
+    },
+    {
+      "institution": "Collège saint Louis Longdoz",
+      "area": "Sciences sociales",
+      "studyType": "",
+      "startDate": "2011-12-31",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Collège Saint Joseph Chênée",
+      "area": "Langues étrangères et littératures, général",
+      "studyType": "",
+      "startDate": "2005-12-31",
+      "endDate": "2010-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "title": "DWWM (Développeur web et web mobile)",
+      "date": "2023-11-10",
+      "awarder": "La Plateforme",
+      "summary": "Formation de 4 mois en développement web full-stack. Apprentissage de HTML, CSS, PHP, C, Python, JavaScript, React, Node.js, Vite, PHPMyAdmin, MySQL, gestion de fichiers json et WordPress."
+    },
+    {
+      "title": "UX Google certificates",
+      "date": "2023-11-17",
+      "awarder": "Google",
+      "summary": "Google certificates en UX design."
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Systèmes de gestion de contenu (CMS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Devis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bases de données",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sens de l’organisation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Résolution de problèmes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement agile",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Applications web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Design d’expérience utilisateur (UX)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Design d’interface utilisateur",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement front-end",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sass",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (langage de programmation)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestion des stocks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Feuilles de style en cascade (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Travail d’équipe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WordPress",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Professional Working",
+      "language": "Anglais"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Laure Zammit",
+      "reference": "Au cours de nos 4 mois de formation à La Plateforme, Manon et moi avons eu l'occasion de nous entraider et de collaborer sur de nombreux projets. C'est une développeuse web très compétente et une apprenante rapide. \n\nManon possède une solide maîtrise de nombreuses technologies, notamment HTML, CSS, SASS, PHP, Python, JavaScript, React, Bootstrap, PHPMyAdmin et même WordPress. Sa capacité à assimiler de nouvelles compétences et à les mettre en pratique est très rapide. Elle a toujours été prête à partager ses connaissances et à apporter des solutions créatives aux défis auxquels nous avons été confrontés.\n\nEn tant que collègue, Manon est fiable, travailleuse et a un véritable esprit d'équipe. Elle fait preuve d'un excellent sens de l'organisation.\n\nJe n'ai aucun doute que Manon continuera à exceller dans le domaine du développement web, et je la recommande chaleureusement en tant que professionnelle compétente et dévouée. Elle sera un atout inestimable pour toute équipe ou projet."
+    },
+    {
+      "name": "Jean-Louis Errante",
+      "reference": "Je tiens à recommander chaleureusement Manon.\n\nSa soif inextinguible d'apprendre est véritablement impressionnante. J'ai pu observer sa détermination à maîtriser un large éventail de domaines, de l'algorithmique au développement, en passant par des technologies telles que PHP, JavaScript, React et Python. Manon aborde chaque nouveau sujet avec une énergie inépuisable, démontrant une compréhension rapide et approfondie.\n\nDe plus, Manon se distingue par son engagement envers le partage de connaissances. Elle ne se contente pas d'acquérir des compétences pour elle-même, mais elle cherche toujours à aider ses pairs et à collaborer pour atteindre des objectifs communs. Son exemplarité dans ce domaine contribue de manière significative à la dynamique de groupe et à la création d'un environnement d'apprentissage positif.\n\nJe suis convaincu que Manon continuera à exceller dans sa carrière grâce à sa soif d'apprendre inextinguible et à sa curiosité intellectuelle constante. Elle est une étudiante exceptionnelle qui laissera une empreinte durable dans le domaine du développement. Je la recommande vivement pour toute opportunité future."
+    },
+    {
+      "name": "Vincent Errante",
+      "reference": "Manon est une étudiante concentrée et intéressée par les métiers du développement. Manon est curieuse, pose des questions et n'hésite pas à faire des recherches personnelles.\n\nSes projets personnels démontrent une vraie passion pour ce métier.\n\nAucun doute que Manon soit un atout pour une entreprise."
+    }
+  ],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
